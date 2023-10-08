@@ -15,6 +15,7 @@ const NavigationBar = () => {
             <Nav.Link href="#">Accessories</Nav.Link>
             <Nav.Link href="#">Skateboarding</Nav.Link>
             <Nav.Link href="#">More </Nav.Link>
+            <Nav.Link href="#">Login </Nav.Link>
           </Nav>
         </Container>
       </Navbar>
