@@ -1,0 +1,45 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/images/bg/main.png");
+  background-size: cover;
+}
+
+.nav {
+  font-size: 18px;
+  font-weight: 700;
+  text-shadow: 2px 2px black;
+}
+
+.intro {
+  height: 350px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-align: center;
+  text-shadow: 2px 2px black;
+  letter-spacing: 3px;
+}
+
+.trending {
+  height: auto;
+  /* background: url("../assets/images/bg/bg2.jpg"); */
+  background-size: cover;
+}
+
+.bseller {
+  height: auto;
+  /* background: url("../assets/images/bg/bg2.jpg"); */
+  background-size: cover;
+}
+
+.shoesImage {
+  height: auto;
+  margin: auto;
+  padding: 5px;
+}
