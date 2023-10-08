@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: HARRYP__;
+  src: url(../public/HARRYP__.TTF);
+}
+
+.h1_harry {
+  font-family: HARRYP__;
+}

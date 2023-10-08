@@ -28,8 +28,15 @@
 
 .trending {
   height: auto;
-  /* background: url("../assets/images/bg/bg2.jpg"); */
+  background: url("../assets/images/harry_potter/bg.jpg");
   background-size: cover;
+}
+
+.h1_harry {
+  color: whitesmoke;
+  line-height: 3;
+  text-shadow: 2px 2px grey;
+  letter-spacing: 2px;
 }
 
 .bseller {
