@@ -1,3 +1,4 @@
+//Prettier AutoSave
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[javascript]": {
