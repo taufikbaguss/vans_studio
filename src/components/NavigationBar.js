@@ -1,13 +1,6 @@
-import {
-  Navbar,
-  Container,
-  Nav,
-  Button,
-  Image,
-  NavDropdown,
-  Form,
-} from "react-bootstrap";
+import { Navbar, Container, Nav, NavDropdown } from "react-bootstrap";
 import logo from "../assets/images/bg/logo.png";
+
 const NavigationBar = () => {
   return (
     <div>
@@ -20,9 +13,9 @@ const NavigationBar = () => {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto">
+              <Nav.Link href="#harrypotter">The Vans x Harry Potter</Nav.Link>
               <Nav.Link href="#sneakers">Sneakers</Nav.Link>
               <Nav.Link href="#apparel">Apparel</Nav.Link>
-              <Nav.Link href="#harrypotter">The Vans x Harry Potter</Nav.Link>
 
               <NavDropdown title="More" id="collapsible-nav-dropdown">
                 <NavDropdown.Item href="#surf">Surf</NavDropdown.Item>
