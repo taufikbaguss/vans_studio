@@ -8,7 +8,9 @@ const Intro = () => {
             <div className="title">VANS</div>
             <div className="title">OFF THE WALL</div>
             <div className="introButton mt-4 text-center">
-              <Button variant="light">SHOP THE COLLECTION</Button>
+              <Button variant="light" href="#harry_potter">
+                SHOP THE COLLECTION
+              </Button>
             </div>
           </Col>
         </Row>
